@@ -1,5 +1,5 @@
 # e621-Downloader
-A python script that downloads unlimited amount of posts from [e621.net](https://e621.net).
+An [e621](https://e621.net) api tool for downloading images and tags of posts for creating datasets.
 
 Currently the script only supports downloading posts based on tags but I'm planning on adding Pool downloading feature. (Will probably never happen)
 
