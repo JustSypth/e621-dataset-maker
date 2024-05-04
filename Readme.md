@@ -18,4 +18,4 @@ The amount of posts can be unlimited.
 Then choose a folder where you want to save those files in.
 
 ### License
-See [license](https://github.com/Gerdvibis/e621-Downloader/blob/main/LICENSE)
+See [license](https://github.com/JustSypth/e621-dataset/blob/main/LICENSE)
