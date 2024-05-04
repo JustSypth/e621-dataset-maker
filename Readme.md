@@ -6,22 +6,6 @@ Currently the script only supports downloading posts based on tags but I'm plann
 ## Requirements:
 > [Python 3.0 or higher version](https://www.python.org/downloads/)
 
-You will also need to install a few libraries using pip command in the command prompt:
-
-```
-pip install requests
-```
-
-For Windows:
-```
-pip install tk
-```
-For Ubuntu/apt:
-```
-sudo apt-get install python3-tk
-```
-
-
 
 ## Usage
 Launch the script and type in tags of your choice and amount of posts you'd like to download.
