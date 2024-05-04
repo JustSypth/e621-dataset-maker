@@ -1,7 +1,6 @@
 # e621 Dataset Maker
 An [e621](https://e621.net) api tool for downloading images and tags of posts for creating datasets.
 
-Currently the script only supports downloading posts based on tags but I'm planning on adding Pool downloading feature. (Will probably never happen)
 
 ## Requirements:
 > [Python 3.0 or higher version](https://www.python.org/downloads/)
