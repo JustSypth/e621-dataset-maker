@@ -67,7 +67,7 @@ while True:
 
     time.sleep(1.2)
 
-    imageorder =+ 1
+    imageorder = imageorder + 1
 
     extension = str(data["post"]["file"]["ext"])
     image_url = str(data["post"]["file"]["url"])
